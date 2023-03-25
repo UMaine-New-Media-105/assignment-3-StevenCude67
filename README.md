@@ -3,7 +3,7 @@ assignment-3-StevenCude67 created by GitHub Classroom
 
 Assignment 3 README
 ----------------------------------------------------------------------------------------------------------------------
-Assignment 3.1
+Assignment 3.1:
 In this Assignment we had to create a "catcher". I had the idea pretty quickly after this assignment was given
 to create a bucket that catches an object of some kind. I had a bit of trouble at first making the bucket look good,
 but I was able to mess with the coordniates to make it look like a bucket. I also had a bit of trouble making clouds
@@ -12,7 +12,7 @@ of the drawClouds function when I called it back. Overall, didn't have much trou
 
 Code: https://editor.p5js.org/StevenCude67/sketches/qdBYDj_wC
 ----------------------------------------------------------------------------------------------------------------------
-Assignment 3.2
+Assignment 3.2:
 For assignment 3.2 we had to "click to change the catcher". I new how to make the cgange happen, so in the coding
 sense, I didn't have any issues. In the creative sense, I wasn't sure what to change the bucket to. Since it's a bucket
 it can't really emote, so I knew it just had to change color when I clicked. I eventually decided to make it gold.
@@ -22,7 +22,7 @@ but I figured uit out and made it change to a golden bucket when clicked.
 
 Code: https://editor.p5js.org/StevenCude67/sketches/UQ3gEjJ7t
 ----------------------------------------------------------------------------------------------------------------------
-Assignment 3.3
+Assignment 3.3:
 For this assignment we had to have an object fall. I had the idea to make it an apple fall that you would catch in the
 bucket, I made in the previous questions. The only problem's I had with the apple was making the stem noticable when
 I made the apple smaller. I made the rectangle fill with brown, I would eventually remove this later, but at the time
@@ -32,7 +32,7 @@ each time I clicked, only when I reset the output, either way I didn't worry abo
 
 Code: https://editor.p5js.org/StevenCude67/sketches/ZMEHXYZxe
 ----------------------------------------------------------------------------------------------------------------------
-Assignment 3.4
+Assignment 3.4:
 This assignment took the leat amount of work compared to all the others. All I had to do was change the apple to ONLY
 fall when I clicked, instead of autiomatically. I didn't really have any issues with the question, did it pretty
 quickly and moved on. I think if I went back I would've thought out what I would do for question five because I had to
@@ -40,7 +40,7 @@ do alot for that one. Regardless, I still was happy with what I had.
 
 Code: https://editor.p5js.org/StevenCude67/sketches/lK6Q110YT
 ----------------------------------------------------------------------------------------------------------------------
-Assignment 3.5
+Assignment 3.5:
 This question requied the most amounnt of work, BUT it also was a lot of fun and very satisfying to see the final
 result. First I wanted to actually complete the goal of making the bucket turn gold when the apple hit the bucket.
 I had serious trouble with this at first, I couldn't figure out how to make this work. After taking a break and
