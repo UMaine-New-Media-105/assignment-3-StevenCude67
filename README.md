@@ -11,6 +11,7 @@ at first, but eventually I figured out that I could makes a series of ellipses n
 of the drawClouds function when I called it back. Overall, didn't have much trouble with part 1. 
 
 Code: https://editor.p5js.org/StevenCude67/sketches/qdBYDj_wC
+
 ----------------------------------------------------------------------------------------------------------------------
 Assignment 3.2:
 For assignment 3.2 we had to "click to change the catcher". I new how to make the cgange happen, so in the coding
@@ -21,6 +22,7 @@ AND the color of the bars on the bucket. It took me a little while to figure out
 but I figured uit out and made it change to a golden bucket when clicked.
 
 Code: https://editor.p5js.org/StevenCude67/sketches/UQ3gEjJ7t
+
 ----------------------------------------------------------------------------------------------------------------------
 Assignment 3.3:
 For this assignment we had to have an object fall. I had the idea to make it an apple fall that you would catch in the
@@ -31,6 +33,7 @@ spot on the X axis. I did this with relative ease, the only thing was that it's 
 each time I clicked, only when I reset the output, either way I didn't worry about it to much. 
 
 Code: https://editor.p5js.org/StevenCude67/sketches/ZMEHXYZxe
+
 ----------------------------------------------------------------------------------------------------------------------
 Assignment 3.4:
 This assignment took the leat amount of work compared to all the others. All I had to do was change the apple to ONLY
@@ -39,6 +42,7 @@ quickly and moved on. I think if I went back I would've thought out what I would
 do alot for that one. Regardless, I still was happy with what I had.
 
 Code: https://editor.p5js.org/StevenCude67/sketches/lK6Q110YT
+
 ----------------------------------------------------------------------------------------------------------------------
 Assignment 3.5:
 This question requied the most amounnt of work, BUT it also was a lot of fun and very satisfying to see the final
